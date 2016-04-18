@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Airport/ils.xml -84.792658 45.564336 214.1 46.1
+OBJECT_SHARED Models/Communications/radio-medium.xml -84.861111 45.538056 174.14 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -84.77325 45.509111 67.25 180
+OBJECT_SHARED Models/Airport/marker.ac -84.780658 45.557539 212.36 180
+OBJECT_SHARED Models/Airport/localizer.xml -84.809781 45.577775 217.98 44.78

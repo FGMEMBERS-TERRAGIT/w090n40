@@ -1,0 +1,8 @@
+OBJECT_SHARED Models/Power/windturbine.xml -87.438333 40.761944 120.62 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -87.475694 40.779639 77.09 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -87.470278 40.781667 117.84 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -87.434528 40.795639 77.95 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -87.306667 40.791694 99.55 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -87.294444 40.760278 85.82 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -87.278056 40.762222 85.06 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -87.256389 40.845 83.61 180

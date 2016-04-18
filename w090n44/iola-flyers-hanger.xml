@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<!-- Iola County Flyers Hanger
+     Central County Airport, 68C 
+     Iola, WI, USA  -->
+
+<PropertyList>
+
+ <path>iola-flyers-hanger.ac</path>
+ <animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-m>10000</max-m>
+ </animation>
+
+</PropertyList>

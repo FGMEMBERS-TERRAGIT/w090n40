@@ -1,0 +1,6 @@
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -82.055835 41.503692 -137.66 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -82.055276 41.50353 -135.39 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -82.053889 41.505556 -162.4 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -82.050928 41.500848 181.95 90
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -82.061906 41.5046 174.77 0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoat_38feet.xml -82.07 41.51 171.97 0

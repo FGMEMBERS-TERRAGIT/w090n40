@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<path>sears-tower-fb.ac</path>
+
+	<animation>
+		<type>range</type>
+		<object-name>Detailed</object-name>
+		<min-m>0</min-m>
+<!--
+		<max-property>/sim/rendering/static-lod/detailed</max-property>
+	</animation>
+
+	<animation>
+		<type>range</type>
+		<object-name>Rough</object-name>
+		<min-property>/sim/rendering/static-lod/detailed</min-property>
+		<max-property>/sim/rendering/static-lod/rough</max-property>
+	</animation>
+
+	<animation>
+		<type>range</type>
+		<object-name>Bare</object-name>
+		<min-property>/sim/rendering/static-lod/rough</min-property>
+-->
+		<max-property>/sim/rendering/static-lod/bare</max-property>
+	</animation>
+
+	<params>
+		<TopLightX-light-near>0.4</TopLightX-light-near>
+		<TopLightX-light-med>0.8</TopLightX-light-med>
+		<TopLightX-light-far>10</TopLightX-light-far>
+	</params>
+
+	<animation>
+		<name>TopLightXGroup</name>
+		<object-name>TopLightX0</object-name>
+		<object-name>TopLightX1</object-name>
+		<object-name>TopLightX2</object-name>
+		<object-name>TopLightX3</object-name>
+		<object-name>TopLightX4</object-name>
+		<object-name>TopLightX5</object-name>
+	</animation>
+
+	<animation>
+		<type>select</type>
+		<name>TopLightXGroupNight</name>
+		<object-name>TopLightXGroup</object-name>
+		<condition>
+			<greater-than>
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.57</value>
+			</greater-than>
+		</condition>
+	</animation>
+
+	<animation>
+		<type>alpha-test</type>
+		<object-name>TopLightXGroup</object-name>
+		<alpha-factor>0.001</alpha-factor>
+	</animation>
+
+	<animation>
+		<type>translate</type>
+		<object-name>TopLightX0</object-name>
+		<offset-m>521.001622</offset-m>
+		<axis>
+			<x>1.299999</x>
+			<y>-2e-006</y>
+			<z>521</z>
+		</axis>
+	</animation>
+
+	<animation>
+		<type>translate</type>
+		<object-name>TopLightX1</object-name>
+		<offset-m>527.578515</offset-m>
+		<axis>
+			<x>-24.699997</x>
+			<y>-2e-006</y>
+			<z>527</z>
+		</axis>
+	</animation>
+
+	<animation>
+		<type>translate</type>
+		<object-name>TopLightX2</object-name>
+		<offset-m>476.108066</offset-m>
+		<axis>
+			<x>-31.700001</x>
+			<y>-7.000001</y>
+			<z>475</z>
+		</axis>
+	</animation>
+
+	<animation>
+		<type>translate</type>
+		<object-name>TopLightX3</object-name>
+		<offset-m>476.108065</offset-m>
+		<axis>
+			<x>-31.699997</x>
+			<y>7</y>
+			<z>475</z>
+		</axis>
+	</animation>
+
+	<animation>
+		<type>translate</type>
+		<object-name>TopLightX4</object-name>
+		<offset-m>475.124079</offset-m>
+		<axis>
+			<x>8.3</x>
+			<y>-7.000002</y>
+			<z>475</z>
+		</axis>
+	</animation>
+
+	<animation>
+		<type>translate</type>
+		<object-name>TopLightX5</object-name>
+		<offset-m>475.124078</offset-m>
+		<axis>
+			<x>8.3</x>
+			<y>6.999998</y>
+			<z>475</z>
+		</axis>
+	</animation>
+
+	<animation>
+		<type>billboard</type>
+		<object-name>TopLightX0</object-name>
+		<spherical type="bool">true</spherical>
+	</animation>
+
+	<animation>
+		<type>billboard</type>
+		<object-name>TopLightX1</object-name>
+		<spherical type="bool">true</spherical>
+	</animation>
+
+	<animation>
+		<type>billboard</type>
+		<object-name>TopLightX2</object-name>
+		<spherical type="bool">true</spherical>
+	</animation>
+
+	<animation>
+		<type>billboard</type>
+		<object-name>TopLightX3</object-name>
+		<spherical type="bool">true</spherical>
+	</animation>
+
+	<animation>
+		<type>billboard</type>
+		<object-name>TopLightX4</object-name>
+		<spherical type="bool">true</spherical>
+	</animation>
+
+	<animation>
+		<type>billboard</type>
+		<object-name>TopLightX5</object-name>
+		<spherical type="bool">true</spherical>
+	</animation>
+
+	<animation>
+		<type>dist-scale</type>
+		<object-name>TopLightX0</object-name>
+		<interpolation>
+			<entry>
+				<ind>0</ind>
+				<dep alias="../../../../params/TopLightX-light-near"/>
+			</entry>
+			<entry>
+				<ind>500</ind>
+				<dep alias="../../../../params/TopLightX-light-med"/>
+			</entry>
+			<entry>
+				<ind>16000</ind>
+				<dep alias="../../../../params/TopLightX-light-far"/>
+			</entry>
+		</interpolation>
+	</animation>
+
+	<animation>
+		<type>dist-scale</type>
+		<object-name>TopLightX1</object-name>
+		<interpolation>
+			<entry>
+				<ind>0</ind>
+				<dep alias="../../../../params/TopLightX-light-near"/>
+			</entry>
+			<entry>
+				<ind>500</ind>
+				<dep alias="../../../../params/TopLightX-light-med"/>
+			</entry>
+			<entry>
+				<ind>16000</ind>
+				<dep alias="../../../../params/TopLightX-light-far"/>
+			</entry>
+		</interpolation>
+	</animation>
+
+	<animation>
+		<type>dist-scale</type>
+		<object-name>TopLightX2</object-name>
+		<interpolation>
+			<entry>
+				<ind>0</ind>
+				<dep alias="../../../../params/TopLightX-light-near"/>
+			</entry>
+			<entry>
+				<ind>500</ind>
+				<dep alias="../../../../params/TopLightX-light-med"/>
+			</entry>
+			<entry>
+				<ind>16000</ind>
+				<dep alias="../../../../params/TopLightX-light-far"/>
+			</entry>
+		</interpolation>
+	</animation>
+
+	<animation>
+		<type>dist-scale</type>
+		<object-name>TopLightX3</object-name>
+		<interpolation>
+			<entry>
+				<ind>0</ind>
+				<dep alias="../../../../params/TopLightX-light-near"/>
+			</entry>
+			<entry>
+				<ind>500</ind>
+				<dep alias="../../../../params/TopLightX-light-med"/>
+			</entry>
+			<entry>
+				<ind>16000</ind>
+				<dep alias="../../../../params/TopLightX-light-far"/>
+			</entry>
+		</interpolation>
+	</animation>
+
+	<animation>
+		<type>dist-scale</type>
+		<object-name>TopLightX4</object-name>
+		<interpolation>
+			<entry>
+				<ind>0</ind>
+				<dep alias="../../../../params/TopLightX-light-near"/>
+			</entry>
+			<entry>
+				<ind>500</ind>
+				<dep alias="../../../../params/TopLightX-light-med"/>
+			</entry>
+			<entry>
+				<ind>16000</ind>
+				<dep alias="../../../../params/TopLightX-light-far"/>
+			</entry>
+		</interpolation>
+	</animation>
+
+	<animation>
+		<type>dist-scale</type>
+		<object-name>TopLightX5</object-name>
+		<interpolation>
+			<entry>
+				<ind>0</ind>
+				<dep alias="../../../../params/TopLightX-light-near"/>
+			</entry>
+			<entry>
+				<ind>500</ind>
+				<dep alias="../../../../params/TopLightX-light-med"/>
+			</entry>
+			<entry>
+				<ind>16000</ind>
+				<dep alias="../../../../params/TopLightX-light-far"/>
+			</entry>
+		</interpolation>
+	</animation>
+
+</PropertyList>
