@@ -1,0 +1,6 @@
+OBJECT_SHARED Models/Airport/ndb.ac -89.433683 48.346689 207.38 180
+OBJECT_SHARED Models/Airport/tacan.xml -89.328958 48.373636 194.35 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -89.358333 48.310556 90.95 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -89.295833 48.3625 63.1 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -89.437575 48.253911 480.93 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -89.308056 48.353056 -212.14 180

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<path>john-hancock-center-fb.ac</path>
+	
+	<animation>
+		<name>Bare</name>
+		<object-name>Body</object-name>
+		<object-name>Body.001</object-name>
+		<object-name>Roof</object-name>
+		<object-name>Antenna</object-name>
+		<object-name>Antenna.001</object-name>
+		<object-name>Antenna.002</object-name>
+		<object-name>Antenna.003</object-name>
+	</animation>
+
+	<animation>
+		<name>Rough</name>
+		<object-name>TrussExt</object-name>
+		<object-name>TrussSide</object-name>
+	</animation>
+
+	<animation>
+		<name>Detailed</name>
+	</animation>
+
+	<animation>
+		<type>range</type>
+		<object-name>Detailed</object-name>
+		<min-m>0</min-m>
+		<max-property>/sim/rendering/static-lod/detailed</max-property>
+	</animation>
+
+	<animation>
+		<type>range</type>
+		<object-name>Rough</object-name>
+		<min-m>0</min-m>
+		<max-property>/sim/rendering/static-lod/rough</max-property>
+	</animation>
+
+	<animation>
+		<type>range</type>
+		<object-name>Bare</object-name>
+		<min-m>0</min-m>
+		<max-property>/sim/rendering/static-lod/bare</max-property>
+	</animation>
+
+</PropertyList>

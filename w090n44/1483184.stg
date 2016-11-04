@@ -1,0 +1,3 @@
+OBJECT_SHARED Models/Airport/ndb.ac -89.789291 44.760522 378.34 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -89.761333 44.787667 263.82 180
+OBJECT_SHARED Models/Airport/marker.ac -89.789291 44.760522 378.34 180
