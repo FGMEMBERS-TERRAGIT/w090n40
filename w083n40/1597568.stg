@@ -24,3 +24,13 @@ OBJECT_SHARED Models/Communications/vordme_1.xml -82.911397 40.002692 244.58 180
 OBJECT_SHARED Models/Airport/marker.ac -82.914514 40.003592 246.84 180
 OBJECT_SHARED Models/Airport/localizer.xml -82.911267 40.003408 244.86 4.21
 OBJECT_SHARED Models/Airport/localizer.xml -82.875564 40.001389 238.83 184.23
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -82.90398 40.00611 247.93 265.75
+OBJECT_SHARED Models/Airport/egkk_oil.xml -82.87765 40.00619 239.73 267.4
+OBJECT_SHARED Models/Airport/egkk_oil.xml -82.87823 40.00622 240.00 267.17
+OBJECT_SHARED Models/lib/office112x50.ac -82.90069 40.00851 246.94 86.11
+OBJECT_SHARED Models/lib/LongRow.ac -82.88948 40.00581 246.76 355.77
+OBJECT_SHARED Models/lib/LongRow.ac -82.88950 40.00545 245.98 355.77
+# END dsf2stg
