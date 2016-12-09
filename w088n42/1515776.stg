@@ -602,3 +602,10 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -87.7510237 42.0371951 187.92 10
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -87.7507147 42.0358564 187.49 289.16
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -87.7504401 42.0359138 187.36 108.95
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -87.7501826 42.0346834 186.96 287.6
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/FireStationLg.ac -87.91845 42.00072 198.52 311.69
+OBJECT_SHARED Models/Airport/egkk_oil.xml -87.93225 42.00025 201.03 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -87.93063 42.00024 200.66 0
+# END dsf2stg

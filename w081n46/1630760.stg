@@ -2,3 +2,8 @@ OBJECT_SHARED Models/Airport/ndb.ac -80.922778 46.648097 298.79 180
 OBJECT_SHARED Models/Airport/ils.xml -80.792801 46.630619 349.63 151.42
 OBJECT_SHARED Models/Communications/radio-medium.xml -80.923611 46.710278 192.64 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -80.798144 46.629208 348.88 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed10x50.ac -80.78802 46.62723 347.38 73.69
+# END dsf2stg

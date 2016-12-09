@@ -1,2 +1,9 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml -80.921667 42.945 152.04 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -80.753333 42.891667 174.23 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.75392 42.92369 269.18 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.75380 42.92371 269.19 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.75408 42.92364 269.13 0
+# END dsf2stg

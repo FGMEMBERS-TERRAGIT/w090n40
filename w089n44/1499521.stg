@@ -77,3 +77,15 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -88.638596 44.003912 250.47 133.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -88.637716 44.003238 250.57 133.22
 OBJECT_STATIC oshkosh-water-tower-1.xml -88.584684 44.012193 235.13 180
 OBJECT_STATIC oshkosh-water-tower-3.xml -88.533282 44.057953 229.8 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -88.68479 44.10212 228.15 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68502 44.10225 228.14 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -88.68497 44.10229 228.14 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -88.68601 44.10256 133.02 0
+OBJECT_SHARED Models/lib/SmHangar.ac -88.68471 44.10175 228.25 181.59
+OBJECT_SHARED Models/lib/SmHangar.ac -88.68493 44.10204 228.09 90
+OBJECT_SHARED Models/lib/MedHangar.ac -88.68582 44.10273 228.06 90
+OBJECT_SHARED Models/lib/MedHangar.ac -88.68451 44.10378 229.23 179.12
+# END dsf2stg
