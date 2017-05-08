@@ -45,3 +45,8 @@ OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -87.783586 41.809231 -249
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -87.760278 41.768333 -263.63 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -87.752222 41.823333 -259.04 180
 OBJECT_SHARED Models/Airport/localizer.xml -87.761703 41.792022 183.94 43.66
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -87.75241 41.78022 186.34 0
+# END dsf2stg
