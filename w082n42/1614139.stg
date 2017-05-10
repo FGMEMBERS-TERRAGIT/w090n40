@@ -5,3 +5,4 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -81.221667 42.964444 106.27
 OBJECT_SHARED Models/Communications/radio-medium.xml -81.190833 42.937778 165.64 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -81.142222 42.949722 126.22 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -81.08 42.944444 209.59 180
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_dark.xml -81.247158 42.986693 248.39 15

@@ -3,3 +3,7 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -88.854528 41.393639 78.87 
 OBJECT_SHARED Models/Communications/radio-medium.xml -88.854444 41.383333 47.34 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -88.821667 41.382222 67.49 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -88.806972 41.391167 45.72 180
+OBJECT_SHARED Models/Aircraft/dc3_lowpoly.ac -88.791761 41.398506 185.07 246
+OBJECT_SHARED Models/Aircraft/dhc6_blue_lowpoly.ac -88.791005 41.401081 186.81 238
+OBJECT_SHARED Models/Aircraft/dhc6_blue_lowpoly.ac -88.79093 41.40166 187.12 90
+OBJECT_SHARED Models/Aircraft/dhc6_blue_lowpoly.ac -88.790753 41.401391 186.53 310
