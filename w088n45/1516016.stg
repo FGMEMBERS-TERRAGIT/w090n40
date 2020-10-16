@@ -78,3 +78,4 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -87.949266 45.820321 329.04 232.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -87.949102 45.820587 329.04 253.95
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -87.949089 45.84223 340.22 270.69
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -87.949046 45.820838 329.04 265.62
+OBJECT_SHARED Models/Sport/horseracetrack.ac -87.907491 45.770636 287.21 232

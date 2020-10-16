@@ -5,3 +5,9 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -84.720556 45.857778 43.09 
 OBJECT_SHARED Models/Communications/radio-medium.xml -84.715556 45.853889 50.55 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -84.616972 45.858889 82.64 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -84.504833 45.765361 17.02 180
+OBJECT_SHARED Models/Airport/light_pole_sbrj.xml -84.636183 45.864276 219.64 0
+OBJECT_SHARED Models/Airport/light_pole_sbrj.xml -84.634327 45.863981 220.85 0
+OBJECT_SHARED Models/Airport/light_pole_sbrj.xml -84.633533 45.864179 220.92 0
+OBJECT_SHARED Models/Airport/antena_EPLR.ac -84.633908 45.86388 216.18 0
+OBJECT_STATIC KMCDTerminal.xml -84.634445 45.863708 226.2 135
+OBJECT_STATIC KMCDGarage.xml -84.633605 45.863802 226.46 286

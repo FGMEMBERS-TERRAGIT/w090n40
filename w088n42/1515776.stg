@@ -54,6 +54,8 @@ OBJECT_SHARED Models/Commercial/generic_skyscraper_07.ac -87.869722 42.101111 -2
 OBJECT_SHARED Models/Commercial/generic_skyscraper_07.ac -87.826111 42.103333 -295.8 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac -87.888611 42.106944 -288.83 180
 OBJECT_SHARED Models/Power/generic_pylon_200m.ac -87.909672 42.094808 197.24 180
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -87.932178 42.000221 121.03 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -87.930622 42.000261 120.66 0
 OBJECT_SHARED Models/Airport/localizer.xml -87.917958 42.004733 197.66 50.09
 OBJECT_SHARED Models/Airport/localizer.xml -87.899733 42.109272 194.84 248.68
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -87.979601 42.0122791 212.35 270.17

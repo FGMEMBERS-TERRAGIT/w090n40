@@ -10,3 +10,4 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -87.780833 41.019444 90.08 
 OBJECT_SHARED Models/Communications/radio-medium.xml -87.756111 41.0775 107.72 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -87.849792 41.074422 186.87 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -87.868056 41.101944 -246.83 180
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -87.930547 41.000237 205.46 0
