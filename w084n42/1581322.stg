@@ -45,6 +45,15 @@ OBJECT_SHARED Models/Airport/marker.ac -83.344097 42.239344 192.21 180
 OBJECT_SHARED Models/Airport/marker.ac -83.319978 42.199722 189.98 180
 OBJECT_SHARED Models/Airport/marker.ac -83.319597 42.217706 189.98 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac -83.35 42.221667 -261.55 180
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac -83.360374 42.227044 108.34 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac -83.360374 42.227044 108.34 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac -83.360251 42.228092 108.36 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac -83.360251 42.228092 108.36 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac -83.360095 42.227417 108.33 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac -83.360095 42.227417 108.33 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac -83.359746 42.227886 108.33 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac -83.359746 42.227886 108.33 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank40m.ac -83.360717 42.226392 108.33 0
 OBJECT_SHARED Models/Airport/localizer.xml -83.373072 42.199872 193.68 298.6
 OBJECT_SHARED Models/Airport/localizer.xml -83.36925 42.216867 193.59 358.69
 OBJECT_SHARED Models/Airport/localizer.xml -83.365456 42.198953 192.81 358.7
@@ -71,4 +80,7 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -83.438651 42.140567 195.46 351.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -83.431499 42.137693 194.45 340.76
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -83.422019 42.136449 192.95 326.92
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -83.42179 42.136196 192.8 303.87
-OBJECT_STATIC KDTW_mcnamara.ac -83.362368 42.202739 192.68 151
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -83.361109 42.225884 108.34 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -83.361109 42.225884 193.34 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -83.360717 42.226392 193.33 0
+OBJECT_STATIC KDTW_mcnamara.ac -83.361954 42.202637 192.64 151

@@ -40,3 +40,4 @@ OBJECT_SHARED Models/lib/lamp10m.xml -87.84986 41.06629 187.67 10
 OBJECT_SHARED Models/lib/lamp10m.xml -87.84968 41.06631 187.66 10
 OBJECT_SHARED Models/lib/fuel-truck.xml -87.84938 41.06656 187.60 325.44
 # END dsf2stg
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -87.930547 41.000237 205.46 0
