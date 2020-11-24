@@ -3,3 +3,12 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -84.707778 44.297222 210.56
 OBJECT_SHARED Models/Communications/radio-medium.xml -84.613278 44.316889 246.5 180
 OBJECT_SHARED Models/Communications/radio-tall.xml -84.742333 44.289083 55.49 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -84.665719 44.358878 348.07 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -84.67746 44.35606 0.00 91.41
+OBJECT_SHARED Models/lib/LongRow.ac -84.67748 44.35654 348.77 91.41
+OBJECT_SHARED Models/lib/LongRow.ac -84.67781 44.35747 348.80 1.2
+OBJECT_SHARED Models/lib/HorizTanks2.ac -84.67710 44.35854 348.70 180.08
+OBJECT_SHARED Models/lib/MedHangar.ac -84.67709 44.35888 348.84 180.31
+# END dsf2stg

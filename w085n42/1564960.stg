@@ -6,3 +6,17 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -84.826333 42.510528 166.6 
 OBJECT_SHARED Models/Communications/radio-medium.xml -84.755528 42.501806 158.54 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -84.754972 42.611667 133.94 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac -84.836667 42.564444 -192.61 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -84.81182 42.57017 0.00 0.120003
+OBJECT_SHARED Models/lib/LongRow.ac -84.81071 42.56909 268.00 89.24
+OBJECT_SHARED Models/lib/LongRow.ac -84.81198 42.56900 268.16 89.06
+OBJECT_SHARED Models/lib/cars4.ac -84.81130 42.57035 268.14 359.765
+OBJECT_SHARED Models/lib/cars2.ac -84.81117 42.57018 268.03 179.541
+OBJECT_SHARED Models/lib/cars6.ac -84.81104 42.57035 268.05 179.552
+OBJECT_SHARED Models/lib/cars10.ac -84.81141 42.57052 268.04 359.582
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -84.81018 42.56936 268.00 0
+OBJECT_SHARED Models/lib/YellowTriangle2.xml -84.81114 42.57034 267.95 359.807
+OBJECT_SHARED Models/lib/lamp10m.xml -84.81178 42.57040 268.05 1.45001
+# END dsf2stg

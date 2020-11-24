@@ -39,3 +39,12 @@ OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -89.373859 43.079709 -164
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -89.373804 43.079261 -164.36 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -89.357222 43.108889 -178.29 180
 OBJECT_SHARED Models/Airport/localizer.xml -89.342286 43.121864 259.09 271.93
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars10.ac -89.40360 43.05962 0.00 359.301
+OBJECT_SHARED Models/lib/cars10.ac -89.40320 43.05962 262.34 0.289558
+OBJECT_SHARED Models/lib/cars10.ac -89.40205 43.05952 261.34 270.688
+OBJECT_SHARED Models/lib/cars10.ac -89.40327 43.05926 259.59 136.799
+OBJECT_SHARED Models/lib/cars10.ac -89.40307 43.05928 261.76 136.181
+# END dsf2stg

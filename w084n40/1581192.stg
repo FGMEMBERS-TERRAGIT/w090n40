@@ -2,3 +2,9 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -83.969639 40.156444 261.02
 OBJECT_SHARED Models/Communications/radio-medium.xml -83.963889 40.139444 296.02 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -83.778611 40.247778 234.2 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -83.778194 40.227222 232.1 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -83.75019 40.12929 0.00 83.83
+OBJECT_SHARED Models/lib/LongRow.ac -83.75005 40.13022 320.99 83.83
+# END dsf2stg

@@ -11,3 +11,19 @@ OBJECT_STATIC KISQGarage.ac -86.175089 45.969355 205.97 180
 OBJECT_STATIC KISQTerminal.ac -86.174564 45.969639 205.76 90
 OBJECT_STATIC KISQOldHangarC.ac -86.173829 45.969478 205.7 90
 OBJECT_STATIC KISQLongHangar.ac -86.173072 45.969544 205.44 0
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -86.17320 45.96948 0.00 181.42
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -86.17404 45.96983 205.96 270.03
+OBJECT_SHARED Models/lib/office40x25.ac -86.17450 45.96944 206.19 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -86.17293 45.96920 206.29 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -86.17359 45.96923 205.84 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -86.17463 45.96900 206.04 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -86.17434 45.96910 206.28 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -86.17426 45.96928 206.22 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -86.17455 45.96924 206.23 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -86.17471 45.96914 206.27 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -86.17479 45.96922 206.31 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -86.17487 45.96974 206.34 40.28
+# END dsf2stg

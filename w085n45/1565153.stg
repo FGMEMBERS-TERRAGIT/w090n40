@@ -3,3 +3,14 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -84.615389 45.560722 124.61
 OBJECT_SHARED Models/Communications/radio-medium.xml -84.611667 45.6075 141.2 180
 OBJECT_SHARED Models/Airport/marker.ac -84.700736 45.50165 182.97 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -84.612198 45.52013 218.85 90.89
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -84.55488 45.53315 0.00 37.4
+OBJECT_SHARED Models/lib/SmHangar.ac -84.55506 45.53331 202.84 37.4
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -84.55426 45.53274 203.39 359.37
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -84.55600 45.53376 201.51 11.31
+OBJECT_SHARED Models/lib/shed8x10.ac -84.55552 45.53371 205.41 38.43
+OBJECT_SHARED Models/lib/shed10x50.ac -84.55425 45.53295 204.53 332.85
+OBJECT_SHARED Models/lib/industrial13x24.ac -84.55695 45.53297 201.89 169.53
+# END dsf2stg

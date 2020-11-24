@@ -10,3 +10,8 @@ OBJECT_SHARED Models/Airport/marker.ac -83.547281 42.662536 313.57 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -83.743913 42.730586 297.75 2.82
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -83.729727 42.730517 314.09 358.86
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -83.724267 42.730383 318.48 358.09
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -83.74971 42.74171 0.00 0
+# END dsf2stg
